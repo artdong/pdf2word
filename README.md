@@ -1,6 +1,6 @@
 # pdf2word
 
-一个基于python实现的pdf文档转word文档工具
+一个基于python实现的pdf转word文档的工具
 
 ## 使用方法
 
